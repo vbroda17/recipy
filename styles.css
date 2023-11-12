@@ -88,3 +88,25 @@
     /* Your custom styles here */
   }
   
+  span.highlight{
+    background-color: yellow;
+  }
+
+  .title {
+    background-color: #0050a0;
+    text-align: center;
+    padding: 8px;
+    margin: 5px;
+  }
+
+  .custom-element {
+    background-color: #0070c0;
+    padding: 10px;
+    margin: 50px;
+    text-indent: 5px;
+    color: #333;
+  }
+
+  .other {
+    padding-top: 20px;
+  }
